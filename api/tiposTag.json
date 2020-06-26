@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "tag": "Email Aberto",
+    "cor_destaque": "info",
+    "descricao": "Lead abriu o Email",
+    "data": "2016-07-06 00:00:00"
+  }, {
+    "id": 2,
+    "tag": "Email Clicado",
+    "cor_destaque": "success",
+    "descricao": "Lead abriu o Email",
+    "data": "2016-07-06 00:00:00"
+  }, {
+    "id": 3,
+    "tag": "Video de Lan\u00e7amento",
+    "cor_destaque": "info",
+    "descricao": "Video de Lan\u00e7amento",
+    "data": "2016-11-29 00:00:00"
+  }, {
+    "id": 4,
+    "tag": "empreendedor sem crise",
+    "cor_destaque": "danger",
+    "descricao": "",
+    "data": "2016-12-01 00:00:00"
+  }, {
+    "id": 6,
+    "tag": "Teste de Tag",
+    "cor_destaque": "danger",
+    "descricao": "teste apenas",
+    "data": "2017-02-13 00:00:00"
+  }, {
+    "id": 7,
+    "tag": "Tag criada dentro no form",
+    "cor_destaque": "danger",
+    "descricao": "Tag criada dentro no form",
+    "data": "2017-02-22 00:00:00"
+  }, {
+    "id": 8,
+    "tag": "Nova Tag Aba",
+    "cor_destaque": "success",
+    "descricao": "teste apenas ",
+    "data": "2017-11-10 00:00:00"
+  }, {
+    "id": 9,
+    "tag": "Lead nao pronto",
+    "cor_destaque": "warning",
+    "descricao": "Lead nao pronto",
+    "data": "2017-11-28 00:00:00"
+  }, {
+    "id": 10,
+    "tag": "Teste de Tag sistema novoT",
+    "cor_destaque": "default",
+    "descricao": "Teste apenas",
+    "data": "2018-04-06 00:00:00"
+  }
+
+]
