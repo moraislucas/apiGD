@@ -1,20 +1,58 @@
 [{
-  "titulo": "Regra 2",
-  "descricao": "Minha primeira regra de automação",
-  "condicao_filhos": "OR",
-  "tipo_tempo": null,
-  "tempo": null,
-  "entrada": [{
+    "titulo": "Primeira Regra",
+    "descricao": "Minha primeira regra de automação",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
 
-    "tipo_entrada": "tag",
-    "acao_entrada": "saiu",
-    "id_entrada": 30
-  }],
-  "saida": [{
+      "tipo_entrada": "tag",
+      "acao_entrada": "saiu",
+      "id_entrada": 30
+    }],
+    "saida": [{
       "tipo_saida": "cadastro",
       "acao_saida": "saiu",
       "id_saida": 36594
-    }
-  ]
+    }]
 
-}]
+  },
+  {
+    "titulo": "Cobrança de Leads",
+    "descricao": "Regra criada para algo",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
+
+      "tipo_entrada": "formulario",
+      "acao_entrada": "entrou",
+      "id_entrada": 30
+    }],
+    "saida": [{
+      "tipo_saida": "tag",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }]
+
+  },
+  {
+    "titulo": "Regra de Formulários",
+    "descricao": "Criada para formulários",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
+
+      "tipo_entrada": "tag",
+      "acao_entrada": "saiu",
+      "id_entrada": 30
+    }],
+    "saida": [{
+      "tipo_saida": "formulario",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }]
+
+  }
+]
