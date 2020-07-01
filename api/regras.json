@@ -55,4 +55,64 @@
     }]
 
   }
+  ,
+  {
+    "titulo": "Alguma coisa ",
+    "descricao": "Regra para auxiliar",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
+
+      "tipo_entrada": "formulario",
+      "acao_entrada": "saiu",
+      "id_entrada": 30
+    }],
+    "saida": [{
+      "tipo_saida": "tag",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }]
+
+  }
+  ,
+  {
+    "titulo": "Quantidade de Leads",
+    "descricao": "Quantidade de Leads",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
+
+      "tipo_entrada": "tag",
+      "acao_entrada": "saiu",
+      "id_entrada": 30
+    }],
+    "saida": [{
+      "tipo_saida": "formulario",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }]
+
+  }
+  ,
+  {
+    "titulo": "Template de Emails",
+    "descricao": "Emails dinamicos",
+    "condicao_filhos": "OR",
+    "tipo_tempo": null,
+    "tempo": null,
+    "entrada": [{
+
+      "tipo_entrada": "formulario",
+      "acao_entrada": "saiu",
+      "id_entrada": 30
+    }],
+    "saida": [{
+      "tipo_saida": "tag",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }]
+
+  }
 ]
