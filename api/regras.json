@@ -1,0 +1,20 @@
+[{
+  "titulo": "Regra 2",
+  "descricao": "Minha primeira regra de automação",
+  "condicao_filhos": "OR",
+  "tipo_tempo": null,
+  "tempo": null,
+  "entrada": [{
+
+    "tipo_entrada": "tag",
+    "acao_entrada": "saiu",
+    "id_entrada": 30
+  }],
+  "saida": [{
+      "tipo_saida": "cadastro",
+      "acao_saida": "saiu",
+      "id_saida": 36594
+    }
+  ]
+
+}]
