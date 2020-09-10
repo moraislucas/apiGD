@@ -7,7 +7,7 @@
   "nome": "Lucas Assun\u00e7\u00e3o de Moraisss",
   "data_adicionado": "2020-09-03T15:08:26-0300",
   "delay": 376,
-  "status": 1,
+  "status": null,
   "data_enviado": null,
   "id_mensagem": "",
   "data_envio": "2020-09-03T18:30:00.000Z"
@@ -20,7 +20,7 @@
   "nome": "Lucas Assun\u00e7\u00e3o de Moraisss",
   "data_adicionado": "2020-09-03T15:06:54-0300",
   "delay": 253,
-  "status": 1,
+  "status": 3,
   "data_enviado": null,
   "id_mensagem": "",
   "data_envio": "2020-09-03T18:07:00.000Z"
@@ -33,7 +33,7 @@
   "nome": "Lucas Assun\u00e7\u00e3o de Morais",
   "data_adicionado": "2020-08-25T14:04:08-0300",
   "delay": 10,
-  "status": 1,
+  "status": null,
   "data_enviado": null,
   "id_mensagem": "",
   "data_envio": "2020-08-25T17:05:00.000Z"
@@ -63,4 +63,62 @@
   "data_enviado": null,
   "id_mensagem": "",
   "data_envio": "2020-08-17T13:32:00.000Z"
-}]
+},
+
+{
+  "_id": "5f3a8693b0bc1109937b8125",
+  "id_lead": 318105,
+  "id_origem": "",
+  "mensagem": "Ol\u00e1 Lucas, Teste teste",
+  "numero": "11953948814",
+  "nome": "Lucas Assun\u00e7\u00e3o de Morais",
+  "data_adicionado": "2020-08-17T10:30:59-0300",
+  "delay": 48,
+  "status": null,
+  "data_enviado": null,
+  "id_mensagem": "",
+  "data_envio": "2020-08-17T13:32:00.000Z"
+},
+ {
+  "_id": "5f3a8693b0bc1109937b8125",
+  "id_lead": 318105,
+  "id_origem": "",
+  "mensagem": "Ol\u00e1 Lucas, Teste teste",
+  "numero": "11953948814",
+  "nome": "Lucas Assun\u00e7\u00e3o de Morais",
+  "data_adicionado": "2020-08-17T10:30:59-0300",
+  "delay": 48,
+  "status": 2,
+  "data_enviado": null,
+  "id_mensagem": "",
+  "data_envio": "2020-08-17T13:32:00.000Z"
+},
+ {
+  "_id": "5f3a8693b0bc1109937b8125",
+  "id_lead": 318105,
+  "id_origem": "",
+  "mensagem": "Ol\u00e1 Lucas, Teste teste",
+  "numero": "11953948814",
+  "nome": "Lucas Assun\u00e7\u00e3o de Morais",
+  "data_adicionado": "2020-08-17T10:30:59-0300",
+  "delay": 48,
+  "status": 3,
+  "data_enviado": null,
+  "id_mensagem": "",
+  "data_envio": "2020-08-17T13:32:00.000Z"
+},
+ {
+  "_id": "5f3a8693b0bc1109937b8125",
+  "id_lead": 318105,
+  "id_origem": "",
+  "mensagem": "Ol\u00e1 Lucas, Teste teste",
+  "numero": "11953948814",
+  "nome": "Lucas Assun\u00e7\u00e3o de Morais",
+  "data_adicionado": "2020-08-17T10:30:59-0300",
+  "delay": 48,
+  "status": 2,
+  "data_enviado": null,
+  "id_mensagem": "",
+  "data_envio": "2020-08-17T13:32:00.000Z"
+}
+]
